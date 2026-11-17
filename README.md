@@ -2,7 +2,7 @@
 
 I am Hou Wei Chook (Hou Wei), a PhD student at the Roslin Institute, University of Edinburgh!
 
-* 🔬 I'm finishing up my PhD in virology
+* 🔬 I just finished my PhD in virology
 * 🧬 I'm obsessed by how viruses store so much information in their tiny genomes!
 * 🧪 I work with rotavirus in the lab, and also code!
 * 💻 You'll find pipelines that identify and visualise viral open reading frames here
